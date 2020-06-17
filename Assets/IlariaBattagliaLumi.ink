@@ -13,7 +13,7 @@ It feels so warm.
  
 Unknown "...Up.
 Unknown "...Wake up.
-Unknown "Wake up my child. # Creature in
+Unknown "Wake up my child. # creature in
 +   ...
     Unknown "I know...
     Unknown "It's rough the first time.
@@ -26,7 +26,7 @@ Unknown "Wake up my child. # Creature in
 
 Light "Look around you, what do you see?
 There is a sudden shift in temperature.
-The light around the creature dims, letting you see behind it.
+The light around the creature dims, letting you see behind it. # darkness ascends
 Darkness ascends. 
 +   Darkness.
 - Light "Unrelenting darkness...
@@ -34,7 +34,7 @@ Light "They did not respect the pact.
 Light "I need your help, you see?
 Light "My child...
 Light "There are others like you, in this world.
-Light "Most of them have already been engulfed by darkness, only a few remain
+Light "Most of them have already been engulfed by darkness, only a few remain.
 Light "Go. Find them.
 Light "Together you will be able to return the balance in this world.
 Light "You have a gift, you are strong. You have the possibility to choose.
@@ -49,7 +49,10 @@ Light "They ARE emotions.
 Light "Each of them.
 Light "Now go, be on your way.
 Light "Good luck, my child.
-Darkness engulfs you once again, and you feel your eyes slowly closing on their own. 
- 
+Darkness engulfs you once again, and you feel your eyes slowly closing on their own. -> Chapter_1
+
+=== Chapter_1 ===
+
+
 -> END 
    
